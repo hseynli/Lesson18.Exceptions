@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\bin\Debug\net6.0\17.Exceptions.exe
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\bin\Debug\net6.0\17.Exceptions.deps.json
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\bin\Debug\net6.0\17.Exceptions.runtimeconfig.json
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\bin\Debug\net6.0\17.Exceptions.dll
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\bin\Debug\net6.0\17.Exceptions.pdb
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.dll
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\refint\17.Exceptions.dll
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.pdb
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\17.Exceptions.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson18.Exceptions\17.Exceptions\obj\Debug\net6.0\ref\17.Exceptions.dll
